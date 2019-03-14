@@ -11,3 +11,6 @@ To understand Flink Architecture and between Spark and Flink differences
 * git checkout branch_name
 * Open FlinkCase Project on IDE and run "sbt clean assembly" command or build project on IDE
 * open terminal tab for Running on Docker and run "docker-compose up" on FlinkCase project Directory
+## FlinkCase branches
+* flinksql
+* flinkDataSet
