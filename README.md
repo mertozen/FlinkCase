@@ -14,3 +14,5 @@ To understand Flink Architecture and between Spark and Flink differences
 ## FlinkCase branches
 * flinksql
 * flinkDataSet
+## Flink docker-compose usage
+* In Project directory,execute "docker-compose up" command and access http://localhost:8081 for uploading Flink Job from web interface
